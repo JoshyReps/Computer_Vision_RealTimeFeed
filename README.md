@@ -17,7 +17,7 @@ Other requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/cv_realtime_object_detection.git
+   git clone https://github.com/eemberda/cv_realtime_object_detection.git
    cd cv_realtime_object_detection
    ```
 
